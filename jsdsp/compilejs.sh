@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 OPTIONS="
 -s EXPORT_NAME=jsDSPModule 
 -ICMSIS_5/CMSIS/DSP/Include 

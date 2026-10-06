@@ -1,6 +1,7 @@
 from collections import defaultdict
 import json
-broadcastersFile = open('broadcas.txt',encoding="ISO-8859-1")
+
+broadcastersFile = open('broadcas.txt', encoding="ISO-8859-1")
 frequenciesFile = open('B21all00.TXT')
 
 broadcasters = {}
